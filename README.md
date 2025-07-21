@@ -18,13 +18,6 @@ This project explores and analyzes Fitbit daily activity data to uncover insight
 
 ---
 
-## 📁 Dataset
-
-> Fitbit activity data (March 12 – April 11, 2016).  
-> Note: You may need to download the dataset separately due to file size or licensing.
-
----
-
 ## 📌 Technologies Used
 
 - Python
